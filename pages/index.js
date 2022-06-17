@@ -52,7 +52,7 @@ export default function Home({ allProducts }) {
 									<Image
 										src={product.imageSrc}
 										alt={product.imageAlt}
-										className="w-full h-full object-center object-cover group-hover:opacity-75"
+										// className="w-full h-full object-center object-cover group-hover:opacity-75"
 										// loading="eager"
 										priority
 										width={500}
